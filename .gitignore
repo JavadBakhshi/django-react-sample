@@ -45,4 +45,6 @@ Thumbs.db
 # Misc
 *.bak
 *.tmp
-*.log
+*.log.idea/
+backend/db.sqlite
+backend/db.sqlite3
